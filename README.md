@@ -7,6 +7,7 @@ Apuntes de juegos y proyectos personales
 	* [a. Utilizar el modo grilla con Stacks Docklet](#2aSTACKDOCKLET)
 * [3. Photoshop](#3PHOTOSHOP)
 	* [a. Ver las miniaturas de RAW en WINDOWS](#3aVERMINIATURAS)
+	* [b. guardar un GIF](#3bGUARDARGIF)
 
 
 ---------------------------------------
@@ -76,6 +77,19 @@ Windows 8
 	https://www.microsoft.com/es-ES/download/details.aspx?id=40309
 
 Instalarla y listo!
+
+<a name="3bGUARDARGIF" />
+
+## b. Guardar una linea de tiempo como GIF
+
+Tomado de
+
+	https://desarrolloweb.com/articulos/crear-gif-animado-photoshopcc.html
+
+Guardar la línea de tiempo como **Guardar para web**, seleccionar GIF, acomodar cada imagen a la posición exacta y guardar como selección de imágenes (Photoshop pone automáticamente la extensión).
+
+En el visor se ven con menor calidad de la que es.
+
 
 ---------------------------------------
 
