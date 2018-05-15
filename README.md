@@ -5,6 +5,9 @@ Apuntes de juegos y proyectos personales
 	* [a. Generar un mapa infinito](#1aMAPAINFINITO)
 * [2. Rocket Dock](#2ROCKETDOCK)
 	* [a. Utilizar el modo grilla con Stacks Docklet](#2aSTACKDOCKLET)
+* [3. Photoshop](#3PHOTOSHOP)
+	* [a. Ver las miniaturas de RAW en WINDOWS](#3aVERMINIATURAS)
+
 
 ---------------------------------------
 
@@ -49,6 +52,32 @@ Dentro pegamos los archivos del siguiente rar:
 
 	https://rocketdock.com/addon/1791/download
 
+---------------------------------------
+
+<a name="3PHOTOSHOP" />
+
+# 3. Photoshop
+
+Apuntes varios sobre Photoshop
+
+<a name="3aVERMINIATURAS" />
+
+## a. Ver las miniaturas de RAW en WINDOWS
+
+
+Para ver las miniaturas de RAW en Windows, es necesario bajar el siguiente plugin según corresponda:
+
+Windows 7
+
+	https://www.microsoft.com/en-us/download/details.aspx?id=26829
+
+Windows 8
+
+	https://www.microsoft.com/es-ES/download/details.aspx?id=40309
+
+Instalarla y listo!
+
+---------------------------------------
 
 <a name="" />
 <a name="" />
