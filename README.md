@@ -103,6 +103,8 @@ Apuntes sobre el Guitar Rig, en su preferencia el 3 o el 5
 
 <a name="4CONFIGURACION" />
 
+## a. Configuración
+
 Lo primero y necesario para utilizar guitar rig es:
 
 - Una entrada de línea en tu PC (la azul)
@@ -117,11 +119,19 @@ ASIO4ALL es un driver gratuito que permite simular una interfaz gráfica en caso
 
 -Instalar el último driver de audio disponible para la placa madre
 
+-Finalmente instalar el Guitar Rig
+
+Para configurar ASIO4ALL en el Guitar Rig es necesario abrir las opciones del programa.
+
 <a name="4BEHRINGER" />
+
+## b. Utilizar la interfaz Behringer UMC204HD
 
 Primero que nada, es necesario enchufar el equipo Behringer mediante USB y bajar los drivers disponibles en la página oficial de Behringer.
 
 >Para la UMC204HD es necesario bajar los drivers de la UMC204, debido a que no existen drivers para la HD
+
+Una vez instalada la interfaz, abrimos Guitar Rig y nos vamos a la configuración del ASIO4ALL para habilitarla en el sistema:
 
 
 
