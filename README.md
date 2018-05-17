@@ -8,7 +8,9 @@ Apuntes de juegos y proyectos personales
 * [3. Photoshop](#3PHOTOSHOP)
 	* [a. Ver las miniaturas de RAW en WINDOWS](#3aVERMINIATURAS)
 	* [b. guardar un GIF](#3bGUARDARGIF)
-
+* [4. Guitar rig](#4GUITARRIG)
+	* [a. Configuración](#4CONFIGURACION)
+	* [b. Cómo conectar la interfaz Behringer UMC204HD](#4BEHRINGER)
 
 ---------------------------------------
 
@@ -93,9 +95,23 @@ En el visor se ven con menor calidad de la que es.
 
 ---------------------------------------
 
-<a name="" />
-<a name="" />
-<a name="" />
+<a name="4GUITARRIG" />
+
+# 4. Guitar Rig
+
+Apuntes sobre el Guitar Rig, en su preferencia el 3 o el 5
+
+<a name="4CONFIGURACION" />
+
+Lo primero y necesario para utilizar guitar rig es:
+
+- Una entrada de línea en tu PC (la azul)
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+
+>No es necesario que sí o sí sea una entrada de línea. Funciona por USB, o por la entrada de micrófono, pero suena mucho peor.
+
+
+<a name="4BEHRINGER" />
 <a name="" />
 <a name="" />
 <a name="" />
