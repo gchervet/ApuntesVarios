@@ -110,8 +110,24 @@ Lo primero y necesario para utilizar guitar rig es:
 
 >No es necesario que sí o sí sea una entrada de línea. Funciona por USB, o por la entrada de micrófono, pero suena mucho peor.
 
+-Instalar ASIO4ALL desde el sitio:
+	http://www.asio4all.org/
+
+ASIO4ALL es un driver gratuito que permite simular una interfaz gráfica en caso de no poseer una. Además mejora la calidad del audio.
+
+-Instalar el último driver de audio disponible para la placa madre
 
 <a name="4BEHRINGER" />
+
+Primero que nada, es necesario enchufar el equipo Behringer mediante USB y bajar los drivers disponibles en la página oficial de Behringer.
+
+>Para la UMC204HD es necesario bajar los drivers de la UMC204, debido a que no existen drivers para la HD
+
+
+
+	
+
+
 <a name="" />
 <a name="" />
 <a name="" />
