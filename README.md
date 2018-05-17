@@ -106,7 +106,7 @@ Apuntes sobre el Guitar Rig, en su preferencia el 3 o el 5
 Lo primero y necesario para utilizar guitar rig es:
 
 - Una entrada de línea en tu PC (la azul)
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](http://2.bp.blogspot.com/_dkN3LLznPOU/TK5y1k4rJqI/AAAAAAAAAHw/E4-hQKPTqCo/s1600/Audio+integrado.jpg)
 
 >No es necesario que sí o sí sea una entrada de línea. Funciona por USB, o por la entrada de micrófono, pero suena mucho peor.
 
