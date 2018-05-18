@@ -137,8 +137,17 @@ Una vez instalada la interfaz, abrimos Guitar Rig y nos vamos a la configuració
 
 ![](https://github.com/gchervet/ApuntesVarios/blob/master/4B1.PNG?raw=true)
 
-	
+Además de habilitarla en el ASIO4ALL, es necesario activarla en **on** en la sección **MIDI**:
 
+![](https://github.com/gchervet/ApuntesVarios/blob/master/4B2.PNG?raw=true)
+
+Y finalmente configurar la entrada y salida desde la misma placa:
+
+![](https://github.com/gchervet/ApuntesVarios/blob/master/4B3.PNG?raw=true)
+
+>Tener en cuenta que al configurar la salida de la placa, esta funcionará como intermediaria entre el parlante y la compu
+
+La placa ya debería poder funcionar como tal, tener en cuenta que la misma posee controles analogicos que el Guitar rig podrá sentir.
 
 <a name="" />
 <a name="" />
