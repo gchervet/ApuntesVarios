@@ -123,6 +123,8 @@ ASIO4ALL es un driver gratuito que permite simular una interfaz gráfica en caso
 
 Para configurar ASIO4ALL en el Guitar Rig es necesario abrir las opciones del programa.
 
+![](https://github.com/gchervet/ApuntesVarios/blob/master/4A1.PNG?raw=true)
+
 <a name="4BEHRINGER" />
 
 ## b. Utilizar la interfaz Behringer UMC204HD
@@ -133,7 +135,7 @@ Primero que nada, es necesario enchufar el equipo Behringer mediante USB y bajar
 
 Una vez instalada la interfaz, abrimos Guitar Rig y nos vamos a la configuración del ASIO4ALL para habilitarla en el sistema:
 
-
+![](https://github.com/gchervet/ApuntesVarios/blob/master/4B1.PNG?raw=true)
 
 	
 
